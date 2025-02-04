@@ -11,10 +11,11 @@ Each project listed below includes:
 
 ## 📌 Project List  
 
-###  1️⃣ **[Data Analysis Dashboard]([https://github.com/Abhishek08Mishra/Data_analysis_app])**
+### 1️⃣ **[Data Analysis Dashboard](https://github.com/Abhishek08Mishra/Data_analysis_app)**
    - 📊 A **Streamlit-based** web app for interactive **EDA and Data Visualization**.
    - 🔍 Supports multiple datasets and **custom chart generation**.
-   - 📌 **Tech Stack:** Python, Streamlit, Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn
+   - 📌 **Tech Stack:** Python, Streamlit, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn  
+
 
 ---
 
