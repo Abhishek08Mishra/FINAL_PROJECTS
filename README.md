@@ -37,11 +37,11 @@ Each project listed below includes:
 ---
 
 ## 🔗 Additional Resources  
+## 🌐 Connect with Me  
 
-📌 **[My GitHub Profile](https://github.com/Abhishek08Mishra)**   
-📌 **[LinkedIn](https://linkedin.com/in/abhishek-mishra-120799281)**
-📌 **[Twitter](https://x.com/Abhi__57)**
-
+📌 **GitHub:** [![GitHub Badge](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek08Mishra)  
+📌 **LinkedIn:** [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-mishra-120799281)  
+📌 **Twitter (X):** [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Abhi__57)  
 
 ---
 
