@@ -22,7 +22,7 @@ Each project listed below includes:
 ## 🔗 Additional Resources  
 
 📌 **[My GitHub Profile](https://github.com/Abhishek08Mishra)**   
-📌 **[LinkedIn](https://linkedin.com/in/abhishek-mishra-120799281) 
+📌 **[LinkedIn](https://linkedin.com/in/abhishek-mishra-120799281)**
 
 ---
 
