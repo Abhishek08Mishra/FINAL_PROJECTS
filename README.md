@@ -40,7 +40,7 @@ Each project listed below includes:
 
 📌 **[My GitHub Profile](https://github.com/Abhishek08Mishra)**   
 📌 **[LinkedIn](https://linkedin.com/in/abhishek-mishra-120799281)**
-📌 **[Twitter][(https://x.com/Abhi__57)]**
+📌 **[Twitter](https://x.com/Abhi__57)**
 
 
 ---
