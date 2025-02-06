@@ -36,7 +36,6 @@ Each project listed below includes:
 
 ---
 
-## 🔗 Additional Resources  
 ## 🌐 Connect with Me  
 
 <p align="center">
