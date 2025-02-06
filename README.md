@@ -34,11 +34,10 @@ Each project listed below includes:
    - 🔍 Supports **interactive visualizations & model insights** for better decision-making.  
    - 📌 **Tech Stack:** Python, Streamlit, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn
 
-
 ### 5️⃣ **[🧠 AI Doc: Diabetes Oracle](https://github.com/Abhishek08Mishra/DiabetesFunLab)**
-   -🔍 A **machine learning-based web app** that predicts diabetes risk using medical data.
-   -📊 Uses **SVM & Logistic Regression** for predictions with interactive visualizations.
-   -📌 **Tech Stack**: Python, Streamlit, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn.
+   - 🔍 A **machine learning-based web app** that predicts diabetes risk using medical data.
+   - 📊 Uses **SVM & Logistic Regression** for predictions with interactive visualizations.
+   - 📌 **Tech Stack**: Python, Streamlit, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn.
 
 ## 🌐 Connect with Me  
 
