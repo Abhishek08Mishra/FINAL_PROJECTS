@@ -39,6 +39,12 @@ Each project listed below includes:
    - 📊 Uses **SVM & Logistic Regression** for predictions with interactive visualizations.
    - 📌 **Tech Stack**: Python, Streamlit, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn.
 
+### 6️⃣ **[🔢KMeans-Clustering-Mall-Customers](https://github.com/Abhishek08Mishra/KMeans-Clustering-Mall-Customers)
+   - 🔍 A machine learning-based project for customer segmentation using demographic and behavioral data.
+   - 📊 Utilizes K-Means & Hierarchical Clustering for segmenting customers with insightful visualizations.
+   - 📌 Tech Stack: Python, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn.
+
+---
 ## 🌐 Connect with Me  
 
 <p align="center">
