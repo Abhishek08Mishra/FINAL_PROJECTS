@@ -44,6 +44,18 @@ Each project listed below includes:
    - 📊 Utilizes K-Means & Hierarchical Clustering for segmenting customers with insightful visualizations.
    - 📌 Tech Stack: Python, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn.
 
+### 7️⃣ 💰🚀 **[ML Loan-Solutions Elite](https://github.com/Abhishek08Mishra/ML_Loan_Solutions_Elite)**  
+   - 🔍 A web app that predicts loan approval using both structured and unstructured data, enhanced with text mining techniques.  
+   - 📊 Leverages machine learning models like Random Forest, alongside preprocessing techniques to evaluate applicants' financial health.  
+   - 📌 Tech Stack: Python, Streamlit, Scikit-Learn, Pandas, Numpy, Joblib, TfidfVectorizer.
+
+### 8️⃣ 🚨 **[Error 404: Brain Not Found](https://github.com/Abhishek08Mishra/Error_404_Not_Found)**  
+   - 🔍 A fun and interactive terminal-based quiz game to challenge your knowledge and find your missing brain!  
+   - 📊 Includes features like user authentication, customizable question bank, dynamic leaderboard, and an interactive interface with hacker-style animations.
+   - 📌 Tech Stack: Python, Terminal, User Authentication, Customizable Quiz, Leaderboard, Interactive Effects.
+
+
+
 ---
 ## 🌐 Connect with Me  
 
